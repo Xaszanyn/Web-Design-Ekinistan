@@ -1,0 +1,31 @@
+section ul {
+    margin-top: 4rem;
+}
+
+section li {
+    padding: 3rem;
+}
+
+iframe {
+    border: .8rem solid #7F0000;
+    border-radius: .8rem;
+    float: left;
+}
+
+.description {
+    width: 50%;
+    float: right;
+    padding: 1rem 2rem;
+}
+
+h4 {
+    font-size: 3rem;
+    color: #7F0000;
+    margin-bottom: 2.2rem;
+}
+
+.button {
+    display: inline-block;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
